@@ -1,0 +1,7 @@
+com\attendance\RegisterStudentDialog.class
+com\attendance\AttendanceRecord.class
+com\attendance\AttendanceSystem.class
+com\attendance\CameraManager.class
+com\attendance\TeacherDashboard.class
+com\attendance\DatabaseManager.class
+com\attendance\FaceRecognizer.class
